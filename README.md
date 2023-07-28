@@ -8,6 +8,7 @@ The Tableau workbook for this analysis can be found in the file named Australia_
 
 Data Analysis Insights:
 Based on the data analysis performed using Tableau, the following key insights were obtained:
+
 1.New South Wales (NSW) leads in sales, with top salespersons John Gardner, Jeremy Garcia, and Lillian Pruitt contributing 72% ($14.97 million) of NSW sales. Rewarding these top performers and providing additional support can further enhance sales in this region.
 
 2.Significant sales fluctuations were observed between January and March 2017. Investigating factors such as seasonality and marketing strategies during this period can help strategize for future stability.
