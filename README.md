@@ -29,5 +29,5 @@ Conclusion:
 This Tableau data analysis project provides valuable insights into the sales trends and performance in Australia. By leveraging Tableau's interactive visualizations, stakeholders can better understand the sales patterns, identify growth opportunities, and make data-driven decisions to optimize sales strategies.
 As an experienced data analyst, it is essential to continuously validate and update these insights based on new data and changing market conditions. Additionally, collaborating with domain experts and stakeholders can further enhance the accuracy and applicability of the analysis.
 Feel free to explore the Tableau workbook, review the data analysis code, and use the insights to inform business decisions and drive improvements in sales performance.
-If you have any questions, suggestions, or feedback, please don't hesitate to contact the project owner or contributors.
+If you have any questions, suggestions, or feedback, please don't hesitate to contact me.
 Happy analyzing!
